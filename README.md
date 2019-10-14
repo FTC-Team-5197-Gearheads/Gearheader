@@ -13,7 +13,7 @@ Library with Robot Classes (as of now form 2018-19) Very primitive at moment
 ### In Android Studio (for all methods)
 4. Open your project in Android Studio and choose `File -> Sync with File System`
 5. Choose `File -> Sync Project with Gradle Files`
-6. Open `settings.gradle` and add this line: `include ':Gearheader'`. For those doing manual installation its `include ':Gearheader-[Version Numbe]'` (basically, it should match the name of the folder)
+6. Open `settings.gradle` and add this line: `include ':Gearheader'`. For those doing manual installation its `include ':Gearheader-[Version Number]'` (basically, it should match the name of the folder)
 7. Open the `build.release.gradle` file under `TeamCode` (or wherever you will be writing your code) and add this line: `implementation project(':Gearheader')` within the curly brackets
 8. Repeat step 7 for the `build.release.gradle` file under `FtcRobotController`
 9. Repeat step 5
