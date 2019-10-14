@@ -14,7 +14,7 @@ Library with Robot Classes (as of now form 2018-19) Very primitive at moment
 9. Repeat step 5
 10. To test, go ahead and try to make an object of type `Lookeebot`. (make sure the editor imports `edu.boscotech.gearheads.gearheader.samplerobots`). If no errors arise, you are good to go.
 ### In Command Line
-11. Then after, make sure to go back to the parent respository of your current project
+11. Then after, make sure to go back to the parent respository of your current project and commit these changes. 
 ## Maintainence
 1. Run `git submodule update --remote` to be up to date with changes in the master branch.
 ## Adding features
