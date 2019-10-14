@@ -22,7 +22,7 @@ Library with Robot Classes (as of now form 2018-19) Very primitive at moment
 11. Then after, make sure to go back to the parent respository of your current project and commit these changes. 
 ## Maintainence
 ### For those who installed using Option A
-1. Run `git submodule update --remote` to be up to date with changes in the master branch. Only stable changes will be pushed on master.
+1. Run `git submodule update --remote` to be up to date with changes in the master branch. Only stable changes will be pushed on master. Then in the parent repo, commit and optionally, push to its remote repo.
 ### For those who installed Option B
 1. Repeat steps for Installation
 ## Adding features
