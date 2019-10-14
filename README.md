@@ -1,11 +1,12 @@
 # Gearheader
 Library with Robot Classes (as of now form 2018-19) Very primitive at moment
 ## Installation
-### In Command Line (for those using Git Submodules)
+### Downloading
+#### Option A. In Command Line (for those using Git Submodules)
 1. Go to your project folder in the command line
 2. Run `git submodule init`
 3. Run `git submodule add https://github.com/FTC-Team-5197-Gearheads/Gearheader.git`
-### Manual Installation (for those who do not want to use Git)
+#### Option B. Manual Installation (for those who do not want to use Git)
 1. Download the Zip file from the latest (or desired )version in [Releases](https://github.com/FTC-Team-5197-Gearheads/Gearheader/releases)
 2. Unzip it
 3. Move it under the directory of your current Android Studio Project
@@ -17,12 +18,12 @@ Library with Robot Classes (as of now form 2018-19) Very primitive at moment
 8. Repeat step 7 for the `build.release.gradle` file under `FtcRobotController`
 9. Repeat step 5
 10. To test, go ahead and try to make an object of type `Lookeebot`. (make sure the editor imports `edu.boscotech.gearheads.gearheader.samplerobots`). If no errors arise, you are good to go.
-### In Command Line (for Git Submodules)
+### In Command Line (for Git Submodules (Option B))
 11. Then after, make sure to go back to the parent respository of your current project and commit these changes. 
 ## Maintainence
-### For those who installed using Git Submodules
+### For those who installed using Option A
 1. Run `git submodule update --remote` to be up to date with changes in the master branch. Only stable changes will be pushed on master.
-### For those who manually added the Library folder
+### For those who installed Option B
 1. Repeat steps for Installation
 ## Adding features
 1. Feel free to fork this library and send pull requests. 
