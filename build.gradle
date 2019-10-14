@@ -39,6 +39,4 @@ dependencies {
 
     implementation(name: 'RobotCore-release', ext: 'aar')
     implementation(name: 'Hardware-release', ext: 'aar')
-    compile project(path: ':DogeCV')
-
 }
