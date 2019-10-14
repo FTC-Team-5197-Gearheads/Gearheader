@@ -5,7 +5,7 @@ Library with Robot Classes (as of now form 2018-19) Very primitive at moment
 1. Go to your project folder in the command line
 2. Run `git submodule init`
 3. Run `git submodule add https://github.com/FTC-Team-5197-Gearheads/Gearheader.git`
-### Manual Installation
+### Manual Installation (for those who do not want to use Git)
 1. Download the Zip file from the latest (or desired )version in [Releases](https://github.com/FTC-Team-5197-Gearheads/Gearheader/releases)
 2. Unzip it
 3. Move it under the directory of your current Android Studio Project
