@@ -10,7 +10,7 @@ Library with Robot Classes (as of now form 2018-19) Very primitive at moment
 ##### Varient 2. Downloading to a repo that already references this submodule in `.gitmodules`
 3. Delete the `Gearheader` directory in your project folder
 4. Run `git submodule update `
-5. In Anroid Studio do a sync `File -> Sync with File System` and `File -> Sync with Gradle File System`. You are done! No need to do the next steps below.
+5. In Android Studio do a sync `File -> Sync with File System` and `File -> Sync with Gradle File System`. You are done! No need to do the next steps below.
 #### Option B. Manual Installation (for those who do not want to use Git)
 1. Download the Zip file from the latest (or desired )version in [Releases](https://github.com/FTC-Team-5197-Gearheads/Gearheader/releases)
 2. Unzip it
